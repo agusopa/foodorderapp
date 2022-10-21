@@ -11,6 +11,4 @@ npm install
 
 npm start
 
-# My process
-ReactJs
 
