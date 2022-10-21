@@ -1,11 +1,11 @@
 # Food Order App
 
-#Available scripts
+# Available scripts
 In the project director, you can run :
 
 npm install
 npm start
 
-#My process
+# My process
 ReactJs
 
