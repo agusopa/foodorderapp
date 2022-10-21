@@ -5,10 +5,10 @@ Maximilian Schwarzmüller.
 This project required me to build a fully responsive food order app, I used React library, HTML5, CSS and JavaScript for the areas that required interactivity and the logic of the shopping cart. 
 
 # Available scripts
-In the project director, you can run :
+In the project director, you can run:
 
-npm install
+· npm install
 
-npm start
+· npm start
 
 
